@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# you are dum
+<p> dum dum dum dum dum </p>
+
+---
